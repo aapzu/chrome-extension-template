@@ -1,4 +1,5 @@
 {
+    "bar": "foo",
     "foo": "bar",
     "name": "chrome-extension-template",
     "version": "0.0.9",
