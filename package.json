@@ -1,6 +1,4 @@
 {
-    "bar": "foo",
-    "foo": "bar",
     "name": "chrome-extension-template",
     "version": "0.0.9",
     "description": "Chrome extension boilerplate, replace all values!",
